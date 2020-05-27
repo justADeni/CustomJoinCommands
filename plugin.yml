@@ -1,0 +1,9 @@
+name: CustomCommandJoin
+version: ${project.version}
+main: me.prostedeni.goodcraft.customcommandjoin.CustomCommandJoin
+api-version: 1.13
+authors: [prosteDeni]
+description: lets you configure commands to be run on join for individual players
+commands:
+  onjoin:
+    description: allows you to set custom onJoin commands for different players
