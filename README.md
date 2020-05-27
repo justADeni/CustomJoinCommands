@@ -3,11 +3,11 @@ allows you to set commands run on Join by console per specific players
 
 To download go to https://github.com/prosteDeniGC/CustomJoinCommands/releases/
 
-How it works?
+How does it work?
 
 # Commands:
 
-/onJoin (player name) (stays forever=true/is only used once then erases=false) (command)
+/onJoin (player name) (stays forever=true/is only used once then is erased=false) (command)
 
 Example: /onJoin prosteDeni true say this is an example
 
